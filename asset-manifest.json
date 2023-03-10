@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KB-2000/Advanced-Portfolio.git/static/css/main.0254dda8.css",
+    "main.js": "/KB-2000/Advanced-Portfolio.git/static/js/main.2359013a.js",
+    "static/media/mascot.png": "/KB-2000/Advanced-Portfolio.git/static/media/mascot.afc25ecfac791b8997c9.png",
+    "static/media/Attendo.png": "/KB-2000/Advanced-Portfolio.git/static/media/Attendo.a468d945bbc16b9bbfc0.png",
+    "static/media/player.png": "/KB-2000/Advanced-Portfolio.git/static/media/player.5c55ab3739becc738b37.png",
+    "static/media/tindog.png": "/KB-2000/Advanced-Portfolio.git/static/media/tindog.4b31c82fdd300d49fd58.png",
+    "static/media/kaushik-bansode-Resume-2.pdf": "/KB-2000/Advanced-Portfolio.git/static/media/kaushik-bansode-Resume-2.5ae6d47bf3de7a3f3892.pdf",
+    "static/media/mynotes.png": "/KB-2000/Advanced-Portfolio.git/static/media/mynotes.5ddbcaa9ef891916ba99.png",
+    "static/media/textutils.png": "/KB-2000/Advanced-Portfolio.git/static/media/textutils.4b7c31e60c0fb0be32b8.png",
+    "static/media/myphoto1.jpeg": "/KB-2000/Advanced-Portfolio.git/static/media/myphoto1.31cbd22c7d64e7f2a816.jpeg",
+    "index.html": "/KB-2000/Advanced-Portfolio.git/index.html",
+    "main.0254dda8.css.map": "/KB-2000/Advanced-Portfolio.git/static/css/main.0254dda8.css.map",
+    "main.2359013a.js.map": "/KB-2000/Advanced-Portfolio.git/static/js/main.2359013a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0254dda8.css",
+    "static/js/main.2359013a.js"
+  ]
+}
